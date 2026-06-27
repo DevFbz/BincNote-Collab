@@ -1,0 +1,6 @@
+tree 19556911f09d55e50ddf084bc7423d8ef0caf9b5
+parent b7a981d99a3b12553427215ce7c128697d9ed3b3
+author nathan <nathan@appflowy.io> 1682037488 +0800
+committer nathan <nathan@appflowy.io> 1682037488 +0800
+
+test: adaptor folder and document to rocksdb
